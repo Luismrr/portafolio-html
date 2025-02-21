@@ -4,7 +4,7 @@
 :root {
     --color-primario: #2973B2;
     --color-secundario: #F2EFE7;
-    --color-terciario: #48A6A7;
+    --color-terciario: #753aac;
     --color-hover: #9ACBD0;
 
     --fuente-monserrat: 'Monserrat', sans serif;
@@ -147,5 +147,6 @@ font-weight: 400 ;
         padding: 5%;
     }
     .presentacion__contenido{
-width: auto; 
+    width: auto; 
+    }
 }
